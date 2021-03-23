@@ -16,7 +16,7 @@ export default function Darkmode() {
   }
 
   const darkmode = {
-    height: "100px",
+    min-height: "100px",
     width: "auto",
     backgroundColor: bgcolor,
     color: color
